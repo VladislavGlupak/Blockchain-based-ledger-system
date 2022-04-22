@@ -68,7 +68,7 @@ Also, the user can see result of verification of the blockchain (`True`).
 
 Step by step:
 
-1. Input data, select `block difficulty` and click `Add block`.
+1. Enter values for the sender, receiver, and amount, and then click the `Add Block` button. Do this several times to store several blocks in the ledger.
 
 ![Screenshot](Images/input.JPG)
 
