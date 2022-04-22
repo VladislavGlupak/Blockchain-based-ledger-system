@@ -96,8 +96,6 @@ Glupak Vladislav [Linkedin](https://www.linkedin.com/in/vladislav-glupak/)
 [issues-shield]: https://img.shields.io/github/issues/VladislavGlupak/Blockchain-based-ledger-system/network/members?style=for-the-badge
 [issues-url]: https://github.com/VladislavGlupak/Blockchain-based-ledger-system/issues
 
-## [license-url]: https://choosealicense.com/licenses/mit/#
-
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
