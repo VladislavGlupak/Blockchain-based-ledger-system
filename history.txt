@@ -1,0 +1,39 @@
+    1  . code
+    2  . code
+    3  conda activate dev
+    4  code .
+    5  cd ..
+    6  git status
+    7  git add Module_18/
+    8  git commit -m "M 18 1 2"
+    9  git push
+   10  cd Module_15/
+   11  ls
+   12  cd ..
+   13  cd ls
+   14  ls
+   15  cd p2_4_17/
+   16  code .
+   17  cd ../..
+   18  cd FinTech_modules/Module_18/Starter_Code/
+   19  got clone https://github.com/VladislavGlupak/Blockchain-based-ledger-system.git
+   20  git clone https://github.com/VladislavGlupak/Blockchain-based-ledger-system.git
+   21  git status
+   22  git add .
+   23  git commit -m "initial commit"
+   24  git push
+   25  git pull
+   26  git status
+   27  git add .
+   28  git commit -m "adding code, images and readme"
+   29  git push
+   30  git add .
+   31  git commit -m "fix readme issue"
+   32  git push
+   33  git add .
+   34  git commit -m "fix typos"
+   35  git push
+   36  git add .
+   37  git commit -m "fix typos, adding comments"
+   38  git push
+   39  history 50 > history.txt
