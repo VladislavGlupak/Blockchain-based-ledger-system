@@ -63,8 +63,10 @@ import hashlib
 
 ## Example of running
 
-Yhe user can see several blocks created and added into the chain.
-Also, th user can see result of verification of the blockchain (`True`).
+The user can see several blocks created and added into the chain.
+Also, the user can see result of verification of the blockchain (`True`).
+
+Step by step:
 
 1. Input data, select `block difficulty` and click `Add block`.
 
